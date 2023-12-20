@@ -1,6 +1,7 @@
 # Cybersecurity Best Practices
 
-This repository is a comprehensive guide to understanding and defending against phishing and other types of social engineering attacks in electronic communications. It contains practical advice, examples, and analyses to educate users and organizations on maintaining online safety.
+## Overview
+This repository contains the work and findings from my job simulation experience with ANZ Australia. It was conducted through the Forage platform. The simulation focused on investigating suspicious emails and handling phishing attempts. This is a crucial skill in today's digital landscape where phishing and social engineering attacks are prevalent.
 
 ## Contents
 
